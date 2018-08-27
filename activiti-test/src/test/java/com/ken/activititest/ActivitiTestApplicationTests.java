@@ -11,7 +11,7 @@ public class ActivitiTestApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("hell  test1  world");
+		System.out.println("hell  test1 2 world");
 	}
 
 }
